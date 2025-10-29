@@ -80,6 +80,67 @@ ul,li{
     align-items: center;
     justify-content: center;
 }
+.services{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+.servesbox{
+    text-align: center;
+    width: 70%;
+    height: 80vh;
+    background-color: rgb(210, 210, 210);
+}
+div h3{
+    padding-top: 50px;
+
+}
+.heading{
+    font-weight: 80px;
+
+}
+.pargraf{
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    text-align:justify;
+}
+.boxs{
+    display: flex;
+    gap: 12px;
+    
+}
+.box{
+    border-radius: 20px;
+    width: 200px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+}
+.setting{
+    width: 25%;
+    height: auto;
+}
+
+/* .bo{
+    padding: 20px;
+    width: 200px;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+}
+.b{
+    padding: 20px;
+    width: 200px;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+}
+.ox{
+    padding: 20px;
+    width: 200px;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+} */
+
 
 
 
